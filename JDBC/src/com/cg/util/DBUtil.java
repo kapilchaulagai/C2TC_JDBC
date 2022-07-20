@@ -25,4 +25,5 @@ public class DBUtil {
 	public static Connection getconnection() {
 		return con; //Returns the established connection
 	}
+	
 	}
